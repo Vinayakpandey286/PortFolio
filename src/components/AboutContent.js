@@ -10,7 +10,7 @@ const AboutContent = () => {
     <div className='about'>
         <div className='left'>
             <h1>Who Am I?</h1>
-            <p>I am a Software Developer currently working in Cognizant with over a 1+ year of Experience in hand. I am Technology Enthusiast who loves wroking on Web Devlopment technologies.</p>
+            <p>I am a Software Developer currently working in Cognizant with over a 1+ year of Experience in hand. I am Technology Enthusiast who loves working on Web Devlopment technologies.</p>
             <a href="/" target="_blank" rel='noreferrer'>
                 <button className='btn'>
                     Resume
